@@ -6,16 +6,16 @@
 
 # Bitcoin-Algo-Bot
 
-### This is group project created to demonstrate how machine learning can be implemented with common trading strategies and compare the outcomes of modelling them on Bitcoin.
+### This is a group project created to demonstrate how machine learning can be implemented with common trading strategies and compare the outcomes of modelling them on Bitcoin.
 
 
 ## Resources and Libraries
 
 Alpaca API - Five years of historic data was extracted  - This was then filtered  and cleaned to suit our models and saved to a CSV file.
 
-Libraries include- Pandas.Numpy.Holoviews.Plotly.Seaborn.Sklearn.Finta
+Libraries include- Pandas.Numpy.Holoviews.Plotly.Seaborn.Sklearn.tensorflow.keras.Finta
 
-We also incorporated Facebook Prophet.
+We also incorporated Facebook Prophet as well as a neural network model using LSTM (with Relu and adam). These were used to look at potential forecasting models. The forecasting was not a prioritised focus of this project.
 
 ## Models and reference.
 
