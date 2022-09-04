@@ -64,3 +64,17 @@ Bolinger Bands: Stategy 2
 Finished testing period 17.1 % above the benchmark held position.
 
 !['BB results plot'](./Resources/Strategy_2_Backtested.png)
+
+
+## Project team
+
+
+Owen Harris
+
+Orlando Sagrillo-Yeaman
+
+Asan Yusuf
+
+Ganesh Bashyal
+
+Garry Comber
